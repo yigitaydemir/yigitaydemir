@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Yusuf 👋
+
+🌱 I’m a software developer based in Istanbul, Turkey.
+💬 Visit my portfolio website to learn more about my work: [yusufyigitaydemir.com](https://www.yusufyigitaydemir.com/)
+📫 You can contact me directly via email: yusufyigitaydemir@gmail.com
 
 <!--
 **yigitaydemir/yigitaydemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
